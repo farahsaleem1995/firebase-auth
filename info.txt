@@ -1,0 +1,1 @@
+Use firebase login --reauth, that happened to me because an old FIREBASE_TOKEN was present while trying to exec firebase init
